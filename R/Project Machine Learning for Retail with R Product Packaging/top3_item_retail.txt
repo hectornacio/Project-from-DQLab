@@ -1,4 +1,0 @@
-"","Nama.Produk","Jumlah"
-"1","Teh Celup",8
-"2","Sirup",6
-"3","Pet Food",5
